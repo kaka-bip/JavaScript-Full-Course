@@ -1,0 +1,55 @@
+1 conceito básico de javascript{
+//console.log("Hello, World");
+//console.log("Eu gosto de pizza!");
+
+//document.getElementById("myH1").textContent = "Hello";
+//document.getElementById("myP").textContent = `Eu gosto de pizza`;
+
+//alert(`Isso e um alerta`);
+//alert(`Eu gosto de pizza`);
+}
+
+2 variaveis{
+    //Number
+//let age = 18;
+//let price = 10.99;
+//let gpa = 2.1;
+//console.log(`You are ${age} years old`);
+//console.log(`The price is U$${price}`);
+//console.log(`Your gpa is: ${gpa}`);
+
+//String
+//let name = "Robert";
+//let favoriteFood = "pizza";
+//let email = "robertpizza@gmail.com";
+//let password = 12345;
+
+//console.log(typeof name);
+//console.log(`My name is: ${name} and i like pizza`)
+//console.log(`Your email is: ${email}`)
+//console.log(`Your password is: ${password}`)
+
+//Booleans 
+
+//let online = true;
+//let forSale = false;
+//let isStudent = false;
+
+//console.log(`Robert is online: ${online}`)
+//console.log(`Your phone is forsale: ${forSale}`)
+//console.log(`Enrolled: ${isStudent}`);
+
+//exercise
+
+//let fullName = 'Robert code'
+//let age = 28;
+//let student = false;
+
+//document.getElementById("p1").textContent = `Your name is: ${fullName}`;
+//document.getElementById("p2").textContent = `Your age is: ${age}`;
+//document.getElementById("p3").textContent = `You and Student: ${student}`
+}
+
+3{
+    
+}
